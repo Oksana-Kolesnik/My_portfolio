@@ -6,6 +6,10 @@
 - ``SQL.`` Работа с СУБД MySQL, PostgreSQL, Metabase.
 - ``MS Excel.`` Сложные формулы, Power Pivet, Power Query.
 - ``Datalens`` - сервис визуализации.
+> ![216656963-09118229-8a9e-4af0-910c-c37f35f2e210](https://github.com/Oksana-Kolesnik/My_portfolio/assets/145563450/02fd1ea9-14a8-412a-8250-a6bad66fbf67)
+
+
+
 ## Мои проекты
 <p> Проект 1: Калькулятор юнит-экономики онлайн-кинотеатра
 <p>Что нужно было сделать:<p>
